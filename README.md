@@ -1,2 +1,4 @@
 # FrameRangeChanger
 Blender Pythonスクリプト
+
+action名を切り替えると、シーンのフレームのstart/endをそのactionの最初と最後のキーフレームに自動的に合わせます。
